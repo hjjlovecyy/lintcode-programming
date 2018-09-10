@@ -35,11 +35,21 @@ public class Solution {
                 break;
         }
 
+        // idx=0, return
+        while (middle == 0) {
+            return middle;
+        }
+
         while (nums[middle] == nums[middle - 1]) {
             middle--;
+            // idx=0, return
+            if (middle == 0) {
+                return middle;
+            }
         }
 
         return middle;
+    }
     }
 
     public static void main(String[] args) {
