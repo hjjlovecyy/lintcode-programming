@@ -50,7 +50,6 @@ public class Solution {
 
         return middle;
     }
-    }
 
     public static void main(String[] args) {
         Solution solution = new Solution();
