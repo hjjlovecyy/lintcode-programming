@@ -8,5 +8,7 @@ continuous updating...
 #### Question 3: [Flatten List](./src/main/java/easy/flattenList/README.md)
 #### Question 4: [Search a 2D Matrix](./src/main/java/easy/search2DMatrix/README.md)
 #### Question 5: [Insert Interval](./src/main/java/easy/insertInterval/README.md)
+#### Question 6: [Reverse Linked List](./src/main/java/easy/reverseLinkedList/README.md)
+
 
 ### May this repo help you!
